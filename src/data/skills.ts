@@ -5,15 +5,15 @@ export interface SkillCategory {
 
 export const skillCategories: SkillCategory[] = [
   {
-    category: 'Frontend',
-    skills: ['HTML', 'CSS', 'TypeScript', 'JavaScript'],
+    category: 'Frontend & Design',
+    skills: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Figma', 'Canva', 'Photoshop'],
   },
   {
-    category: 'UI/UX',
-    skills: ['Figma', 'Design Systems', 'Wireframing'],
+    category: 'Tools & Systems',
+    skills: ['Zoho CRM', 'Microsoft Office', 'Git', 'Vite', 'VS Code', 'Notion'],
   },
   {
-    category: 'Tools',
-    skills: ['Git', 'Vite', 'VS Code'],
+    category: 'Soft Skills',
+    skills: ['Customer Service', 'Team Collaboration', 'Problem Solving', 'Communication', 'Organisation'],
   },
 ];
